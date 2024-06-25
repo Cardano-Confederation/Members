@@ -11,7 +11,8 @@ Ambassador | Sebastián Videmato | LATAM | - | - |
 Community | ADA Solar | LATAM | - | [@CardanoSolar](https://x.com/CardanoSolar) | 
 Community | ALBA | LATAM | - | [@ADALABS_](https://x.com/ADALABS_) | 
 Community | ALDEA | LATAM | https://aldea-dao.org | [@AldeaDao](https://x.com/AldeaDao) | 
-Community | Cardano Curation | LATAM | https://linktr.ee/cardanocuration | [@CardanoCuration](https://x.com/Cardanocuration) | 
+Community | Cardano Curation | LATAM | https://linktr.ee/cardanocuration | [@CardanoCuration](https://x.com/Cardanocuration) |
+Community | Chacra Mithrandir | LATAM | https://www.chacramithrandir.com | - | 
 Community | Creative Crystal | LATAM | - | - |  
 Community | El Cardumen | LATAM | - | - | 
 Community | Funintec | LATAM | https://funintec.net | [@FunintecVzla](https://x.com/Funintecvzla) | 
@@ -28,12 +29,10 @@ Media | Individuo Digital | LATAM | https://www.youtube.com/@IndividuoDigital | 
 Media | Latin Stake Pools | LATAM | https://www.youtube.com/@LatinStakePools | [@LatinStakePools](https://x.com/LatinStakePools) | 
 Project | AdaSouls | LATAM | https://AdaSouls.io | [@AdaSouls](https://x.com/AdaSouls) | 
 Project | Breakpoint 341 | LATAM | https://mithr.io/breakpoint341 | [@breakpoint0341](https://x.com/breakpoint0341) | 
-Project | Cardano Timeline | LATAM | https://ctimelines.io | [@CTimelines_io](https://x.com/CTimelines_io) | 
 Project | Game Changer | LATAM | https://gamechanger.finance | [@GameChangerOk](https://x.com/GameChangerOk) | 
 Project | Machiavellic | LATAM | https://machiavellic.io | [@Machiavellic_io](https://x.com/Machiavellic_io) | 
 Project | MAYZ | LATAM | https://mayz.io | [@MAYZProtocol](https://x.com/MAYZProtocol) | 
 Project | Torque Motorsport | ANZPAC | https://torquemotorsport.io | [@trqmotorsport](https://x.com/trqmotorsport) |
-Project | TxPipe | LATAM | https://txpipe.io | [@txpipe_tools](https://x.com/txpipe_tools) | 
 Stake Pool | APOLO | LATAM | https://apolostakepool.com | [@apolostakepool](https://x.com/apolostakepool) | 
 Stake Pool | BLESS | LATAM | https://sites.google.com/view/poolblessvenezuela | [@BlessPool](https://x.com/BlessPool) | 
 Stake Pool | BRAZL | LATAM | https://brazilpool.com | [@BrazilPool](https://x.com/BrazilPool) | 
@@ -46,6 +45,8 @@ Stake Pool | MAYZ | LATAM | https://mayz.io | [@MAYZProtocol](https://x.com/MAYZ
 Stake Pool | MOXIE | LATAM | - | [@LARestrepoMu](https://x.com/LARestrepoMu) | 
 Stake Pool | ONE1 | LATAM | https://adapool.one | [@ADAOnePool](https://x.com/ADAOnePool) | 
 Stake Pool | PEACE | EU | https://repsistance.com | [@repsistance](https://x.com/repsistance) |
+Stake Pool | PET♥ | LATAM | https://petloverstake.com | [@PetStake](https://x.com/PetStake) |
 Stake Pool | TANGO | LATAM | https://www.tangocrypto.com | [@tango_crypto](https://x.com/tango_crypto) | 
 Stake Pool | TOPO | LATAM | https://topopool.com | [@TOPO_Pool](https://x.com/TOPO_Pool) | 
+Stake Pool | WHITE | LATAM | https://white.topopool.com | [@CriptogirlB](https://x.com/CriptogirlB) | 
 Translation | Cardano Castellano | LATAM | https://www.youtube.com/@CardanoCastellano | - |
